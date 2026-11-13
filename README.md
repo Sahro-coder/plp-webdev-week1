@@ -4,7 +4,7 @@ This project is my first webpage, created using HTML as part of the Power Learn 
 
 ## Live Website
 
-Coming soon — I will add my GitHub Pages link after publishing.
+https://sahro-coder.github.io/plp-webdev-week1/
 
 ## What I Learned
 
